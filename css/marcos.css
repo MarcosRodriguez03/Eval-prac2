@@ -1,0 +1,14 @@
+.bg-dark {
+    background-color: rgb(103, 103, 103);
+    color: white;
+}
+
+.blackBg {
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+
+.darkGreyBg {
+    background-color: rgb(37, 37, 37);
+
+}
